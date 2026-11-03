@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you use or discuss this work, please cite it using the preferred citation below."
-title: "The Mind of God"
+title: "The Mind of God: Algorithmic Agnosticism and Religious Belief"
 authors:
   - given-names: "Christopher S."
     family-names: "Taylor"
     email: "christopher@extrafox.me"
 version: "1.0"
+doi: "10.5281/zenodo.23900497"
 date-released: 2026-11-02
 repository-code: "https://github.com/extrafox/the-mind-of-god"
 license: CC-BY-4.0
@@ -26,13 +27,15 @@ references:
         family-names: "Taylor"
     year: 2026
     url: "https://github.com/extrafox/algorithmic-agnosticism"
+    doi: "10.5281/zenodo.23900493"
 preferred-citation:
   type: report
-  title: "The Mind of God"
+  title: "The Mind of God: Algorithmic Agnosticism and Religious Belief"
   authors:
     - given-names: "Christopher S."
       family-names: "Taylor"
   year: 2026
   status: preprint
+  doi: "10.5281/zenodo.23900497"
   notes: "Version 1.0, preprint; not peer-reviewed."
   license: CC-BY-4.0

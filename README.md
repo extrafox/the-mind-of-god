@@ -57,6 +57,21 @@ This produces `paper/main.pdf`, which is copied to `paper/the-mind-of-god.pdf`.
 
 Comments, corrections and objections are welcome. Please open an issue on this repository.
 
+## How to cite
+
+DOI: [10.5281/zenodo.23900497](https://doi.org/10.5281/zenodo.23900497) (all versions; version 1.0 is [10.5281/zenodo.23900498](https://doi.org/10.5281/zenodo.23900498)).
+
+```bibtex
+@misc{taylor2026mindofgod,
+  author       = {Taylor, Christopher S.},
+  title        = {The Mind of God: Algorithmic Agnosticism and Religious Belief},
+  year         = {2026},
+  note         = {Version 1.0, preprint; not peer-reviewed},
+  doi          = {10.5281/zenodo.23900497},
+  howpublished = {\url{https://github.com/extrafox/the-mind-of-god}}
+}
+```
+
 ## License
 
 The text of this work is licensed under the
